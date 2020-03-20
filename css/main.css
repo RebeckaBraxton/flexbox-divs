@@ -115,15 +115,20 @@ body {
 }
 
 .div-1, .div-2, .div-3 {
-  width: 30%;
-  display: flex;
-  justify-content: center;
-  align-items:center;
+  align-items: center;
+  background-color: #99ffeb;
+  border: #00cca3;
+  border-style: dashed;
+  border-width: thick;
   color: #fff;
+  display: flex;
+  font-size: 1.2em;
+  height: auto;
+  justify-content: center;
   line-height: 1.5em;
-  font-size: 1.6em;
-  background-color: #f16059;
-  height: 300px;
+  padding: 1em;
+  margin-right: .5em;
+  width: 30%;
 }
 
 
